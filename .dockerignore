@@ -1,0 +1,29 @@
+node_modules/
+dist/
+.astro/
+.git/
+.gitignore
+.agents/
+.claude/
+.vscode/
+.idea/
+
+# Data files (these are runtime, not build artifacts)
+data.db
+data.db-shm
+data.db-wal
+uploads/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docs
+README.md
+AGENTS.md
+CLAUDE.md
+*.log
